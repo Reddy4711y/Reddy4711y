@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hemanth
+- 👋 Hi, I’m Hemanth Reddy simply you call me as Reddy
 - 👀 I’m interested in Python and web development
 - 🌱 I’m currently learning Python
 - 💞️ I’m currently studying Btech in the field of COMPUTER SCIENCE AND TECHNOLOGY 
