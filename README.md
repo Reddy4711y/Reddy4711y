@@ -1,5 +1,5 @@
 ![MasterHead](https://cdn.dribbble.com/users/3029631/screenshots/5932909/banner_python_4x.jpg)
-<h1 align="center">Hi 👋, I'm HEMANTH REDDY simply you call me as Reddy</h1>
+<h1 align="center">Hi 👋, I'm HEMANTH REDDY </h1>
 <h3 align="center">A passionate PYTHON developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://tse1.mm.bing.net/th?id=OIP.zVnWJtyGOX_kUIDm6ccCfQHaEq&pid=Api&P=0&w=249&h=156"
 
